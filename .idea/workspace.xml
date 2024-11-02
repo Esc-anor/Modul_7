@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cadd013-1c88-4ea7-a17e-5e74219d1318" name="Changes" comment="Можно проверять">
-      <change afterPath="$PROJECT_DIR$/module_7_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/format_string.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/trener.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -48,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.format_string.executor": "Run",
     "Python.module_7_1.executor": "Run",
     "Python.module_7_2.executor": "Debug",
     "Python.module_7_3.executor": "Run",
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729964243696</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Можно проверять">
+      <option name="closed" value="true" />
+      <created>1730026077013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730026077013</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
